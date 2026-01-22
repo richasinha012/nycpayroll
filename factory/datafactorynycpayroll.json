@@ -1,0 +1,9 @@
+{
+	"name": "datafactorynycpayroll",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "37798bee-6054-4404-9d57-ec01ebfb813d",
+		"tenantId": "20341dbd-ee88-4580-a045-72d5cba339e9"
+	}
+}
